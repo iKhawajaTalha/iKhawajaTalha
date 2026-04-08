@@ -23,10 +23,6 @@ I am an ML Engineer and AI Automation specialist with ~3 years of production exp
 
 * **Bachelor's Degree in Computer Science** from COMSATS UNIVERSITY (2009–2013)
 
-### 🏆 Honors and Awards
-
-* [Award or achievement, e.g. Winner of a hackathon or competition] (20XX)
-* [Another achievement, e.g. Top placement in Kaggle competition or academic award] (20XX)
 
 ### 🚀 Skills
 
@@ -57,8 +53,6 @@ I am an ML Engineer and AI Automation specialist with ~3 years of production exp
 
 #### Back-End & APIs
 
-[![Django](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
-[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
@@ -73,7 +67,6 @@ I am an ML Engineer and AI Automation specialist with ~3 years of production exp
 
 [![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ### 🔗 Links
@@ -82,4 +75,3 @@ I am an ML Engineer and AI Automation specialist with ~3 years of production exp
 [![email](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kh.talha.humayun@gmail.com)
 [![twitter](https://img.icons8.com/color/96/000000/twitter-squared.png)](https://twitter.com/iKhawajaTalha)
 [![linkedin](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/iKhawajaTalha)
-[![kaggle](https://img.icons8.com/color/96/000000/kaggle.png)](https://www.kaggle.com/YOUR-KAGGLE)
