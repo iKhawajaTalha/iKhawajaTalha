@@ -1,60 +1,85 @@
-Hello there 👋
-I am an ML Engineer and AI Automation specialist with ~2 years of production experience. My main focus is AI automation using n8n — building intelligent multi-branch workflows that connect LLMs, APIs, and tools to eliminate manual work entirely. I also work extensively in Computer Vision and Deep Learning: training YOLOv11 models at >90% mAP for real clients (Nissan, AKEA, PetroLube), building ML pipelines on 100K+ datasets, and deploying Flask APIs in production. I am passionate about open source and always looking for opportunities to contribute to meaningful AI-driven projects.
-💼 Work Experience
-Machine Learning Engineer at Scraperrs Lab (Jul 2024 – Present)
-Designed and built end-to-end n8n automation workflows connecting AI models, third-party APIs, and internal tools — saving client teams 10+ hours per week and eliminating manual processes entirely.
-Automated project management for a 40+ member engineering team using n8n, Slack, OpenProject, and OpenAI — tasks created, assigned, and tracked via natural language and voice commands (Whisper STT, <3s latency).
-Built LLM-powered pipelines with LangChain and GPT-4o-mini, including a multilingual Slack bot classifying 11 intent types at >95% accuracy across English, Urdu, and Roman Urdu.
-Trained and deployed YOLOv11 deep learning models (>90% mAP) for shelf and product detection; built Flask REST APIs and data pipelines on 100K+ record datasets for clients including Nissan and PetroLube.
-Containerised ML workflows with Docker, migrated pipelines to AWS Lambda, and delivered in Agile sprints.
-React Developer at Passu Technologies (Jun 2023 – Feb 2024)
-Built responsive React.js web applications — wireframes to working interfaces connected to REST APIs — shipped consistently in Agile sprint cycles.
-Chief Executive Officer at Casa Estate & Developers (Jan 2016 – Mar 2023)
-Led sales, marketing, and operations across a 15+ person team — this business background directly shapes how I approach automation: identify the highest-ROI bottlenecks first, then engineer the solution.
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikhawajatalha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-🚀 Key Projects
-AI Project Management Automation System · Scraperrs Lab (Oct 2024 – Present)
-Built a comprehensive n8n system connecting Slack, OpenProject, and OpenAI — a 40+ member team manages their entire project lifecycle through natural language and voice, zero manual input, 99%+ pipeline reliability.
-Multi-branch n8n workflows handle task creation, assignment, updates, and reporting automatically; GPT-4o-mini classifies 11 intent types (>95%) with Whisper STT voice-to-task in under 3 seconds.
-Stack: n8n · OpenAI GPT-4o Mini · Whisper STT · LangChain · Slack API · OpenProject · Docker
-Pulsee & Petromin / PetroLube — AI Retail Vision & Compliance · Scraperrs Lab (Dec 2024 – Present)
-Built a multi-stage CV inference pipeline combining gondola detection, product placement recognition, and brand visibility analysis from in-store shelf images — cutting manual store audits by ~70%.
-Trained YOLOv11 models to >90% mAP across 100+ product categories; Flask REST APIs + AWS S3 deliver annotated images and compliance KPIs directly to client dashboards.
-Stack: Python · YOLOv11 · OpenCV · Flask · REST APIs · AWS S3 · Docker
-Tarveej — AI Retail Shelf Analytics Platform · Scraperrs Lab (May 2025 – Dec 2025)
-AI system analyzing shelf images for brand detection, product facings, shelf-zone segmentation, and promo tag detection — all in a single Dockerised MLOps pipeline scaled to 100+ categories.
-Stack: Python · YOLO · YOLOv11 · OpenCV · Flask · REST APIs · Docker · SQL
-🌱 Education
-BSc Computer Science · COMSATS Institute of Information and Technology, Lahore (2009 – 2013)
-Final Year Project in the Machine Learning / Deep Learning domain
-FSc Pre-Engineering · Forman Christian College (A Chartered University), Lahore (2006 – 2008)
-🚀 Skills
-🤖 AI Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-👁️ Computer Vision & Deep Learning
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-🐍 Languages & APIs
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-🔗 Links
-![portfolio](https://img.icons8.com/fluent/96/000000/domain.png)
-![email](https://img.icons8.com/color/96/000000/gmail.png)
-![linkedin](https://img.icons8.com/color/96/000000/linkedin.png)
-![github](https://img.icons8.com/color/96/000000/github--v1.png)
+## Hello there 👋
+
+I am an ML Engineer and AI Automation specialist with ~3 years of production experience, based in Lahore, Pakistan. I build intelligent n8n automation workflows connecting LLMs, APIs, and tools to eliminate manual work, and train Computer Vision models (YOLOv11, >90% mAP) for real-world clients (Nissan, AKEA). My stack includes Python, TensorFlow, PyTorch, LangChain, OpenAI, Flask, Docker, and AWS — from model training to production deployment. Always looking for opportunities to contribute to meaningful AI-driven projects.
+
+### 💼 Work Experience
+
+* **ML/AI Engineer at SCRAPERRS LAB** (2024–Present)
+
+  + Designed and deployed end-to-end n8n automation workflows connecting LLMs, APIs, and internal tools, saving client teams 10+ hours/week and eliminating manual processes entirely.
+  + Built LLM-powered pipelines using LangChain and GPT-4o-mini, including a multilingual Slack bot classifying 11 intent types at >95% accuracy across English, Urdu, and Roman Urdu.
+  + Trained and deployed YOLOv11 Computer Vision models (>90% mAP) for shelf and product detection for clients including Nissan and PetroLube.
+  + Developed Flask REST APIs to serve ML models in production, with data pipelines processing 100K+ record datasets.
+  + Containerised ML workflows with Docker, migrated pipelines to AWS Lambda, and delivered in Agile sprints alongside senior engineers.
+
+* **React Developer at PASSU TECHNOLOGIES** (2023–2024)
+
+  + Collaborated with the frontend team to develop and maintain responsive React.js web applications.
+  + Converted UI/UX wireframes into interactive components using React functional components and Hooks.
+  + Integrated RESTful APIs and optimized performance through component reusability, enhancing user experience.
+    
+
+### 🌱 Education
+
+* **Bachelor's Degree in Computer Science** from COMSATS UNIVERSITY (2009–2013)
+
+### 🏆 Honors and Awards
+
+* [Award or achievement, e.g. Winner of a hackathon or competition] (20XX)
+* [Another achievement, e.g. Top placement in Kaggle competition or academic award] (20XX)
+
+### 🚀 Skills
+
+#### Programming Languages
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+#### Machine Learning & AI
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/ultralytics)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+
+#### Data & Visualization
+
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+
+#### Back-End & APIs
+
+[![Django](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
+[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+#### Databases
+
+[![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/mysql-00000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+#### DevOps & Tools
+
+[![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+### 🔗 Links
+
+[![website](https://img.icons8.com/fluent/96/000000/domain.png)](https://talha-ai.vercel.app/)
+[![email](https://img.icons8.com/color/96/000000/gmail.png)](mailto:kh.talha.humayun@gmail.com)
+[![twitter](https://img.icons8.com/color/96/000000/twitter-squared.png)](https://twitter.com/iKhawajaTalha)
+[![linkedin](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/iKhawajaTalha)
+[![kaggle](https://img.icons8.com/color/96/000000/kaggle.png)](https://www.kaggle.com/YOUR-KAGGLE)
