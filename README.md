@@ -2,7 +2,7 @@
 
 ### I'm Khawaja Talha 👋
 
-I am an ML Engineer and AI Automation specialist with ~3 years of production experience, based in Lahore, Pakistan. I build intelligent n8n automation workflows connecting LLMs, APIs, and tools to eliminate manual work, and train Computer Vision models (YOLOv11, >90% mAP) for real-world clients (Nissan, AKEA). My stack includes Python, TensorFlow, PyTorch, LangChain, OpenAI, Flask, Docker, and AWS from model training to production deployment. Always looking for opportunities to contribute to meaningful AI-driven projects.
+ML Engineer and AI Automation Specialist with a track record of delivering high-impact solutions for international clients, including NISSAN and AKEA in KSA. I build intelligent n8n automation workflows connecting LLMs, APIs, and tools to eliminate manual work, and train Computer Vision models (YOLOv11, >90% mAP) for real-world clients (Nissan, AKEA). My stack includes Python, TensorFlow, PyTorch, LangChain, OpenAI, Flask, Docker, and AWS from model training to production deployment. Always looking for opportunities to contribute to meaningful AI-driven projects.
 
 ### 💼 Work Experience
 
