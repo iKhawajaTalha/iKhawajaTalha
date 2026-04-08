@@ -1,4 +1,6 @@
-## Hello there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A960FF&width=500&lines=👁️+Computer+Vision+Engineer;🤖+AI+%26+Automation+Builder;🚀+Turning+Ideas+into+Intelligence!)](https://git.io/typing-svg)
+
+### I'm Khawaja Talha 👋
 
 I am an ML Engineer and AI Automation specialist with ~3 years of production experience, based in Lahore, Pakistan. I build intelligent n8n automation workflows connecting LLMs, APIs, and tools to eliminate manual work, and train Computer Vision models (YOLOv11, >90% mAP) for real-world clients (Nissan, AKEA). My stack includes Python, TensorFlow, PyTorch, LangChain, OpenAI, Flask, Docker, and AWS from model training to production deployment. Always looking for opportunities to contribute to meaningful AI-driven projects.
 
@@ -23,6 +25,52 @@ I am an ML Engineer and AI Automation specialist with ~3 years of production exp
 
 * **Bachelor's Degree in Computer Science** from COMSATS UNIVERSITY (2009–2013)
 
+
+## 📌 Projects
+
+---
+
+### 🤖 AI-Powered Project Management Automation System
+> `n8n` `Slack` `OpenProject` `OpenAI (GPT-4o, Whisper)` `JavaScript` `REST APIs`
+
+Architected an AI-driven automation platform integrating Slack, OpenProject, and OpenAI to convert natural language and voice commands into project management actions for a **40+ member engineering team**.
+
+- 🧠 Intelligent Slack bot that classifies task intents *(create, complete, delay, delete, status)* using **GPT-4o-mini** with multilingual support for English, Urdu & Roman Urdu
+- 🎙️ Voice-to-task pipeline using **OpenAI Whisper** to transcribe Slack audio messages and route through AI classification workflows
+- ⏰ Automated cron-based reminder workflows detecting due/overdue tasks with personalized Slack notifications
+- 🔒 Role validation, fuzzy assignee resolution & event deduplication for reliable, duplicate-free automation
+
+---
+
+### 🛒 Tarveej – AI Retail Shelf Analytics Platform
+> `Python` `YOLOv8` `OpenCV` `PyTorch` `FastAPI` `CVAT` `Computer Vision`
+
+Designed an AI-powered shelf analytics system detecting brands, product facings, shelf zones, and promotional tags from retail shelf images — scaled to **100+ product categories**.
+
+- 📦 Multi-stage CV inference pipeline combining brand detection, shelf-zone detection & promotion tag detection
+- 📊 Analytics for **share-of-shelf**, product placement *(Top/Middle/Bottom)*, and promotional execution tracking
+- 🔌 FastAPI endpoints returning structured KPIs and annotated shelf images for dashboards & field teams
+
+---
+
+### 🏭 Pulsee – AI Video Analytics & Workplace Safety Platform
+> `Python` `OpenCV` `Deep Learning` `Computer Vision` `Video Analytics`
+
+AI-powered video analytics platform commercially deployed to enterprise clients including **Nissan** and **AKEA**.
+
+- 👁️ Developed modules for gender detection, parking monitoring, engagement analytics & harassment detection
+- 📹 Real-time **multi-camera CCTV** stream processing pipelines for workplace safety & operational monitoring
+- 🚀 Production-grade platform generating real-world enterprise usage at scale
+
+---
+
+### ⛽ Petromin / PetroLube – AI Gondola Campaign Monitoring
+> `Python` `OpenCV` `YOLO` `Computer Vision` `Retail Analytics`
+
+Computer vision solution for monitoring retail marketing campaign compliance for **Petromin Nissan / PetroLube**.
+
+- 🏪 AI models detecting gondola displays, product placement & brand visibility from in-store shelf images
+- 📈 Enabled marketing teams to track real-world **campaign execution & merchandising compliance** using image-based insights
 
 ### 🚀 Skills
 
